@@ -1,0 +1,5 @@
+faiss-cpu
+zenml
+langchain>=0.0.116
+llama_index>=0.4.28,<0.6.0
+streamlit
